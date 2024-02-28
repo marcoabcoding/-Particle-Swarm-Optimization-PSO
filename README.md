@@ -1,4 +1,4 @@
-# -Particle-Swarm-Optimization-PSO
+# Particle-Swarm-Optimization-PSO
 Analysis of Multi-Objective Strategy Adaptation by Particle Swarm for Network Queue Problems
 
 Processes composed of queueing networks with interdependent queues are present in
